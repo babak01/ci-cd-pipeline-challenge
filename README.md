@@ -1,4 +1,4 @@
-# 04_07_challenge_develop_a_deployment_pipeline
+# Challenge: Develope a deployment pipeline
 
 It's time for a challenge!
 
